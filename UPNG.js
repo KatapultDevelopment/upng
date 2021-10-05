@@ -1,4 +1,4 @@
-import pako from 'pako';
+import * as pako from '@progress/pako-esm';
 
 var UPNG = {};
 
